@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+@import "carousel";
+
+body{
+    
+    font-family: monospace, sans-serif;
+    overflow-x: hidden;
+    background-color:cornflowerblue;
+
+
+}
+
+#menu li > a {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(3, 3, 3);
+}
+
+#menu form > button{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.carousel-inner {
+   max-height: 30rem;
+}
+
+@media (max-width:768) {
+    #intro {
+        width: 90% !important;
+    }
+    .servicio-fila {
+        width: 100% !important;
+        text-align: center;
+    }
+}
+
+@media(max-width: 576px) {
+    .icono-wrap{
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+}
+
+

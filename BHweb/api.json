@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 600,
+      "id": 1,
+      "title": "Black Box",
+      "thumbnailUrl": "img/blackbox.png"
+    },
+    {
+      "precio": 2800,
+      "id": 2,
+      "title": "Frapera",
+      "thumbnailUrl": "img/boxfrapera.png"
+    },
+    {
+      "precio": 2500,
+      "id": 3,
+      "title": "Box XG",
+      "thumbnailUrl": "img/boxxg.png"
+    },
+    {
+      "precio": 800,
+      "id": 4,
+      "title": "Gomitas Chica",
+      "thumbnailUrl": "img/gomitaschica.png"
+    },
+    {
+      "precio": 1800,
+      "id": 5,
+      "title": "Corazon Mediano",
+      "thumbnailUrl": "img/corazonmediano.png"
+    },
+    {
+      "precio": 1500,
+      "id": 6,
+      "title": "Gomitas Mediano",
+      "thumbnailUrl": "img/boxgomuasmediano.png"
+    }
+  ]
